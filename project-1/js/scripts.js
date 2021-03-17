@@ -7,12 +7,7 @@ var greetingEl = document.getElementById('greeting');
 greetingEl.textContent = greeting;
 
 
-// Mic score determination
-var micScore = 100,
-    longevityDiscount = .10,
-    totalScore = micScore - (micScore * longevityDiscount),
-    micScoreEl = document.getElementById('micScore'),
-    totalScoreEl = document.getElementById('totalScore');
+
     
 
 // Mic scores
