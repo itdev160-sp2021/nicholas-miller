@@ -1,0 +1,70 @@
+body {
+    font-family: "Work Sans";
+    color: rgb(0, 0, 0);
+    background-color: rgb(124, 119, 128);
+    font-size: 18px;
+}
+
+h1 {
+    color: #000;
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+}
+
+h2 { 
+    color: rgba(82, 26, 26, 0.329);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color:blueviolet;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+#columns {
+float: left;
+}
+
+
+table, th, td {
+padding: 15px;
+border: 1px solid black;
+border-collapse: collapse;
+
+}
+
+caption {
+font-size: 100px;
+}
+
+
+
+img {
+    height: 200px;
+    text-align: left;
+}
+
+
+
+figure {
+    display: inline-block;
+    margin: 10px;
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+    color: aliceblue;
+
+}
+
+
