@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: auto 30px;
+}
+
+#credits{
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image{
+    width: 50%;
+}
+
+#footer-bottom{
+    font-style: italic;
+    margin-top: 20px;
+}
+
+h2{
+    font-style: bold;
+}
